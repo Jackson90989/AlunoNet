@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Aluno Net - Boletim</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans min-h-screen flex flex-col"></body>
+  <header class="bg-white shadow p-4 flex justify-between items-center">
+    <h1 class="text-xl font-bold text-gray-700">Aluno Net</h1>
+    <nav class="space-x-4 text-sm text-gray-600">
+      <a href="index.html">Painel</a>
+      <a href="disciplinas.html">Disciplinas</a>
+      <a href="boletim.html" class="font-semibold text-blue-700">Boletim</a>
+      <a href="agenda.html">Agenda</a>
+      <a href="documentos.html">Documentos</a>
+      <a href="comunicados.html">Comunicados</a>
+      <a href="perfil.html">Perfil</a>
+    </nav>
+  </header>
+
+  <main class=" flex-grow p-6 p-6">
+    <h2 class="text-2xl font-bold mb-4">Boletim</h2>
+    <table class="w-full bg-white rounded shadow">
+      <thead class="bg-gray-200 text-left">
+        <tr>
+          <th class="p-3">Disciplina</th>
+          <th class="p-3">1º Bimestre</th>
+          <th class="p-3">2º Bimestre</th>
+          <th class="p-3">Média</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="border-b">
+          <td class="p-3">Banco de Dados</td>
+          <td class="p-3">8.0</td>
+          <td class="p-3">9.0</td>
+          <td class="p-3 font-semibold">8.5</td>
+        </tr>
+        <tr>
+          <td class="p-3">Programação Web</td>
+          <td class="p-3">9.5</td>
+          <td class="p-3">9.0</td>
+          <td class="p-3 font-semibold">9.25</td>
+        </tr>
+      </tbody>
+    </table>
+  </main>
+
+  <footer class="text-center text-sm text-gray-500 py-4">
+  © 2025 Aluno Net. Desenvolvido para fins acadêmicos.
+</footer>
+</body>
+</html>
