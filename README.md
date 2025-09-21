@@ -37,4 +37,4 @@ Projeto desenvolvido como um portal acadêmico para estudantes, com navegação 
 - Implementar backend para armazenamento real dos dados  
 - Criar versão SPA com React/Next.js para melhor experiência  
 - Integração com bancos de dados reais
-(Em Construção)
+- (Em Construção)
