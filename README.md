@@ -31,23 +31,10 @@ Projeto desenvolvido como um portal acadêmico para estudantes, com navegação 
 
 ---
 
-## Estrutura do projeto
-
-aluno-net/
-├── index.html # Página inicial (Painel)
-├── disciplinas.html # Disciplinas
-├── boletim.html # Boletim
-├── agenda.html # Agenda
-├── documentos.html # Documentos para download
-├── comunicados.html # Comunicados oficiais
-├── perfil.html # Perfil do aluno
-
----
-
 ## Próximos passos
 
 - Adicionar sistema de autenticação (login e senha)  
 - Implementar backend para armazenamento real dos dados  
 - Criar versão SPA com React/Next.js para melhor experiência  
 - Integração com bancos de dados reais
-
+(Em Construção)
