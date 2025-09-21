@@ -31,10 +31,10 @@ Projeto desenvolvido como um portal acadêmico para estudantes, com navegação 
 
 ---
 
-## Próximos passos
+## Próximos passos (Em construção)
 
 - Adicionar sistema de autenticação (login e senha)  
 - Implementar backend para armazenamento real dos dados  
 - Criar versão SPA com React/Next.js para melhor experiência  
 - Integração com bancos de dados reais
-- (Em Construção)
+
